@@ -6,4 +6,10 @@
 
 ### This is a landing page of that project .
 
+<hr>
+<hr>
+
 <img src="https://github.com/nilendra-vip/cyber-fiction-website/assets/109471788/7187f4fd-418c-452a-9b16-86c5ff7047d6" width="90%" style="border: 2px solid black;">
+
+<hr>
+<hr>
