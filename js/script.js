@@ -33,6 +33,21 @@ function locomotive() {
 locomotive();
 
 
+// Custom cursor ==================================================================
+let mouseCursor = document.querySelector(".cursor");
+let btn = document.querySelectorAll("button");
+
+window.addEventListener("mousemove", cursor);
+
+function cursor(cursorPointer){
+  gsap.to(mouseCursor, 0.4, {
+    x: cursorPointer.clientX,
+    y: cursorPointer.clientY,
+  });
+}
+
+
+
 //------------------------------------------------------------------------------------
 // Loader
 
